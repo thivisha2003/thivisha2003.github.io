@@ -1,0 +1,44 @@
+body{
+  background-color: pink;
+}
+
+h1{
+  color: blue;
+  font-size: 70px;
+  width: 100%;
+  font-family: Broadway;
+  letter-spacing:0.2em;
+  text-align: center;
+}
+
+h2{
+  font-family: Rockwell;
+  font-size: 50px;
+  color: orange;
+  text-align: center;
+}
+
+p{
+  color: darkgreen;
+  font-size: 28px;
+  font-family: SketchFlow Print;
+  text-align: center;
+}
+
+.links{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.links a {
+  background-color: lightgreen;
+  font-family:SketchFlow Print;
+  font-size: 30px;
+  font-weight: 300;
+  display: inline-block;
+  margin: 10px;
+  padding: 1px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
